@@ -20,7 +20,7 @@ We will look at the consequences of picking a strategy, and when to pick one ove
 * Explain how to treat users passwords
 * Explain (and demonstrate) how to prevent brute force attacks
 
-_Note: Again this is a pretty big mouthful, and the lessons this week will, to a certain degree, be related to week-8. So if you, after this week, don’t feel completely confident with the learning goals outlined above, we will summarize in week 8._
+_Note: Again this is a pretty big mouthful, and the lessons this week will, if you, after this week, don’t feel completely confident with the learning goals outlined above, we will summarize in week 8._
 
 ## What to read
 * Read the Section “Authenticate Users Safely” in [this article](https://martinfowler.com/articles/web-security-basics.html)
