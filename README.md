@@ -25,7 +25,7 @@ Read [this article](https://developer.mozilla.org/en-US/docs/Web/HTTP/Authentica
 * Read [this article](https://docs.oracle.com/javaee/7/tutorial/security-webtier002.htm), “Cookies vs Tokens: The Definitive Guide” but STOP when you reach the section “Token-Based Authentication in Action with Auth0”
 * Watch [this video](https://www.youtube.com/watch?v=67mezK3NzpU&t=3033s). It’s long almost an hour, but gives a perfect overview of token (jwt) based authentication.
 * Watch [this video](https://www.youtube.com/watch?v=L1PDqJkedZ0). It's only 11 minutes.
-* Read [this article](https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide)
+* Read [this article](https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide): Cookies vs. Tokens: The Definitive Guide
 
 ## Slides for Wednesday
 * [Slides](http://slides.mydemos.dk/securityAuthentication/securityAuthentication.html#1)
