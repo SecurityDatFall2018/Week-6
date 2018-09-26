@@ -1,7 +1,3 @@
-# Week-6
-
-[Cookies vs. Tokens: The Definitive Guide](https://dzone.com/articles/cookies-vs-tokens-the-definitive-guide)
-
 # Week 6 (Wednesday + Friday)
 
 ## Authentication/login- strategies
